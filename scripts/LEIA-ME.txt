@@ -1,0 +1,19 @@
+ConverterCRTV — vídeos que abrem no Premiere com imagem e som
+
+1. Arraste ConverterCRTV para a pasta Aplicativos.
+2. Na primeira vez: botão direito no app › Abrir › "Abrir Mesmo Assim"
+   (o app não tem assinatura da Apple).
+3. Arraste vídeos (ou pastas) para a janela, ou para o ícone no Dock.
+
+No Finder: selecione os vídeos › botão direito › Ações Rápidas (ou Serviços)
+› "Converter p/ Premiere". Se não aparecer, abra o app uma vez e ative em
+Ajustes do Sistema › Teclado › Atalhos de Teclado › Serviços.
+
+Presets:
+- Premiere: só converte o que precisa. Arquivo já compatível é ignorado; MKV/WebM
+  com H.264 só troca o container (instantâneo); VP9, AV1 e HEVC 10-bit viram H.264.
+- ProRes 422: MOV pesado, ideal para editar sem travar.
+- Só áudio: WAV.
+
+O arquivo original nunca é alterado. A conversão sai ao lado dele com
+"(Premiere)" no nome, ou na pasta escolhida no rodapé.

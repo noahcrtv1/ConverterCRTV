@@ -1,0 +1,10 @@
+ConverterCRTV inclui as seguintes ferramentas de terceiros, sem modificação,
+em ConverterCRTV.app/Contents/Resources/bin. Texto completo da licença
+em Contents/Resources/Licenses.
+
+FFmpeg (ffmpeg e ffprobe) — GNU General Public License v3
+  Build estático de Martin Riedl: https://ffmpeg.martin-riedl.de
+  Código-fonte do FFmpeg: https://ffmpeg.org/download.html
+  Scripts de build usados nesta distribuição: https://git.martin-riedl.de/ffmpeg/build-script
+  O código-fonte correspondente pode ser obtido nos links acima ou solicitado
+  a quem distribuiu este aplicativo.
